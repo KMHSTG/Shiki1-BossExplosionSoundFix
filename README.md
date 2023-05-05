@@ -23,3 +23,8 @@ pack1.pack
 (Patched) &nbsp; CRC32:&nbsp; 1ac7c325  
 (Patched) &nbsp; MD5:  &nbsp; &nbsp;   10b5798278adb50f7d58c5564fb623c3  
 (Patched) &nbsp;  SHA-1: &nbsp; 28a81a2f9bc00acb6e870dc2736f003b130d8f7c  
+
+## &nbsp;
+
+Patch by KMH  
+2023-05-02 - Released
